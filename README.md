@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 👯 I’m looking to collaborate on **Web3, Blockchain, and Full Stack projects**
+- 👯 I’m looking to collaborate on **Full Stack projects, Web3 and Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanishsingh17](https://github.com/tanishsingh17)
 
