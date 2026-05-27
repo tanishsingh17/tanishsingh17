@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **N8N**
 
 - 👯 I’m looking to collaborate on **Full Stack projects**
 
